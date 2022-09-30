@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function (event) {
   <div class="container">
   <h1>AUtitude - Leitor de textos com voz!</h1>
 
-  <h3>Escolha o tipo de voz</h3>
+  <h3>Escolha o tipo de voz!</h3>
   <select></select>
 
   <button class="btn btn-toggle">Inserir texto</button>
